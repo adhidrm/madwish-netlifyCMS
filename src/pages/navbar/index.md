@@ -10,5 +10,8 @@ menuItems:
   - label: past meetups
     linkType: internal
     linkURL: /meetups
+  - label: Store
+    linkType: external
+    linkURL: 'https://kanalasal.id'
 ---
 
